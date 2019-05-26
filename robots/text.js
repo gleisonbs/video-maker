@@ -3,8 +3,8 @@ const sentenceBoundaryDetection = require('sbd')
 const NaturalLanguageUnderstandingV1 = require('ibm-watson/natural-language-understanding/v1.js')
 
 const algorithmiaApiKey = require('../credentials/algorithmia.json').apiKey
-
 const watsonApiKey = require('../credentials/watson.json').apiKey
+
 const watsonUrl = require('../configs/watson.json').url
 const watsonVersion = require('../configs/watson.json').version
 
