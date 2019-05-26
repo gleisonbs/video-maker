@@ -1,0 +1,4 @@
+{
+    url: "https://gateway.watsonplatform.net/natural-language-understanding/api",
+    version: "2018-11-16"
+}
